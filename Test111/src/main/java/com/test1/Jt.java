@@ -8,6 +8,7 @@ public class Jt {
 		for (int i = a-1 ; i > 0 ; i--) {
 			a = a * i ;
 			a--;
+			a++;
 		}
 		System.out.println(a);
 	}
